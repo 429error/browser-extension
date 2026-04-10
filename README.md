@@ -1,0 +1,1 @@
+Currently learning how to build browser extension, what stack to use , what steps to keep in mind, how to integrate seamlessly with the 
