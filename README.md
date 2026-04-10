@@ -1,4 +1,4 @@
-# My Browser Extension Journey : Learning the Basics
+# Browser Extension Journey : Learning the Basics
 
 This repository is dedicated to my progress in learning how to build, debug and deploy browser extensions. The project focuses on understanding the architecture of **Manifest V3**.
 
@@ -7,7 +7,7 @@ This repository is dedicated to my progress in learning how to build, debug and 
 ### 1. Prerequisites for building browser extension
 
 - A Chromium-based browser (Chrome, Brave, Edge) or Firefox.
-- Basic knowledge of HTML, CSS, and JavaScript.
+- Basic knowledge of HTML, CSS and JavaScript.
 
 ### 2. Project Structure
 
