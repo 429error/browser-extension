@@ -9,6 +9,7 @@ This repository is dedicated to my progress in learning how to build, debug, and
 - Basic knowledge of HTML, CSS, and JavaScript.
 
 ### 2. Project Structure
+
 - `manifest.json`: The entry point and configuration file.
 - `popup.html`: The user interface that appears when the extension icon is clicked.
 - `popup.js`: Logic specifically for the popup UI.
@@ -20,6 +21,7 @@ This repository is dedicated to my progress in learning how to build, debug, and
 
 To run this extension locally on your browser:
 
-1. **Clone the repository:**
+1. ** Clone the repository : **
+
    ```bash
    git clone [https://github.com/429error/browser-extension.git](https://github.com/429error/browser-extension.git)
