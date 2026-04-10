@@ -5,6 +5,7 @@ This repository is dedicated to my progress in learning how to build, debug, and
 ## 🚀 How to Get Started
 
 ### 1. Prerequisites for building browser extension
+
 - A Chromium-based browser (Chrome, Brave, Edge) or Firefox.
 - Basic knowledge of HTML, CSS, and JavaScript.
 
