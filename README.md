@@ -1,4 +1,7 @@
-# Browser Extension Journey : Learning the Basics
+## Browser Extension Journey : Learning the Basics
+
+## Note-taking browser extension (DEMO)
+<img width="733" height="805" alt="note-taking-ext" src="https://github.com/user-attachments/assets/0a2a28d0-2093-4cdc-826d-0eeb9f5bbbc8" />
 
 This repository is dedicated to my progress in learning how to build, debug and deploy browser extensions. The project focuses on understanding the architecture of **Manifest V3**.
 
