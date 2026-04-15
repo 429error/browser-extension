@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=380">
+  <title>QuickNotes</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <h1>QuickNotes</h1>
+      <span class="note-count" id="noteCount">0 notes</span>
+    </header>
+
+    <div class="new-note-section">
+      <textarea id="noteInput" placeholder="Write a new note..." rows="3"></textarea>
+      <div class="note-actions">
+        <input type="text" id="noteTitle" placeholder="Title (optional)" maxlength="50">
+        <button id="saveBtn" class="btn-primary">Save Note</button>
+      </div>
+    </div>
+
+    <div class="notes-list" id="notesList">
+      <div class="empty-state" id="emptyState">
+        <div class="empty-icon">📝</div>
+        <p>No notes yet</p>
+        <span>Start typing above to create your first note</span>
+      </div>
+    </div>
+
+    <footer class="app-footer">
+      <span>Double-click to edit • Right-click to delete</span>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
