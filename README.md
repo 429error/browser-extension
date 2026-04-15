@@ -2,7 +2,7 @@
 
 This repository is dedicated to my progress in learning how to build, debug and deploy browser extensions. The project focuses on understanding the architecture of **Manifest V3**.
 
-## 🚀 How to Get Started
+## How to Get Started
 
 ### 1. Prerequisites for building browser extension
 
@@ -26,3 +26,5 @@ To run this extension locally on your browser:
 
    ```bash
    git clone [https://github.com/429error/browser-extension.git](https://github.com/429error/browser-extension.git)
+
+2. Go to the chrome -> open developer mode in chrome://extension -> click load unpacked -> select the file ->good to go and check your browser extension 
